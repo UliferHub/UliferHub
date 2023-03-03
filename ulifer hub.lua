@@ -92,7 +92,7 @@ TextLabel_2.ZIndex = 7
 TextLabel_2.Font = Enum.Font.SourceSans
 TextLabel_2.Text = "https://discord.gg/UJyvbbzsH3"
 TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-TextLabel_2.TextScaled = true
+TextLabel_2.TextScaled = false
 TextLabel_2.TextSize = 14.000
 TextLabel_2.TextWrapped = true
 
