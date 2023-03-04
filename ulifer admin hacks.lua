@@ -17,7 +17,7 @@
 
 	ver = '1.1'
 
-    print("ulifer admin hacks "..ver.." loaded.")
+    print("ulifer admin hacks v"..ver.." loaded.")
 
 	Players = game:GetService("Players")
 
